@@ -5,7 +5,7 @@ export class HomeComponent extends React.Component {
   public render() {
     return (
       <div>
-        home component updated
+        Home {5+5}
       </div>
     );
   }
